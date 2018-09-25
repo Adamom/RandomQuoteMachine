@@ -1,0 +1,28 @@
+body{
+  background-color:grey;
+  
+}
+.box{
+  margin: 20% auto auto auto;
+  width:50%;
+  background-color:white;
+ padding:10px 10px 10px 10px ;
+  border-radius:10px;
+}
+
+#NewQ{
+  float:right ;
+  
+}
+#quote{
+  font-family:Times New Roman;
+  font-size:22px;
+  
+}
+.quote-author{
+  font-style: italic;
+  font-family:Times New Roman;
+   text-align:right;
+  width:450px;
+  font-weight:bold;
+}
